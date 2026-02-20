@@ -1,0 +1,3 @@
+Hi this is file B
+ this is second version
+ `:w
